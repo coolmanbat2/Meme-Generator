@@ -11,8 +11,8 @@ Meme Generator is an Xcode application that is specifically used for the iPhone 
 
 *Note: The files can only be opened on the latest version of Xcode (11.6 as of August 28, 2020). Additionally, you MUST have a mac in order to run the iPhone application only.*
 
-1) Download XCode 11.6 on your Mac
-2) Clone this repository 
+2) Clone this repository
+3) Open the repo on XCode
 3) Installation Complete, Yay!!! :)
 
 ## How to run the iPhone simulation.
